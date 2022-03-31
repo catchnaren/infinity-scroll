@@ -1,0 +1,23 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "An infinity scroll implementation using the Unsplash API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catchnaren/web-template.git"
+  },
+  "keywords": [],
+  "author": "Naren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catchnaren/web-template/issues"
+  },
+  "homepage": "https://github.com/catchnaren/web-template#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}

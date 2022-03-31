@@ -1,3 +1,3 @@
-## Template
+## Infinity Scroll
 
-Basic web dev template
+An infinity scroll implementation using the Unsplash API
