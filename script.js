@@ -1,4 +1,3 @@
-import { UNSPALSH_API_KEY } from './api.js';
 const imageContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader');
 
